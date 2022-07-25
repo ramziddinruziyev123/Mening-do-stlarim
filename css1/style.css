@@ -1,0 +1,89 @@
+.fon{
+    width: 100%;
+}
+.body{
+    margin: 0;
+    min-width: 1347px;
+    max-width:2000px;
+    background-color:orange;
+}
+.adam{
+    position: absolute;
+    width: 180px;
+    border-radius: 50%;
+    top: 140px;
+    left:80px;
+    z-index: 10;
+    transition: 1s;
+}
+.top{
+    position: relative;
+}
+.begoyim{
+    position: absolute;
+    width:200px ;
+    border-radius: 50%;
+    top: 377px;
+    left:190px;
+    z-index: 10;
+    transition: 1s;
+}
+.ezoza{
+    position: absolute;
+    width:210px ;
+    border-radius: 50%;
+    top: 75px;
+    left:390px;
+    z-index: 10;
+    transition: 1s;
+}
+.hadicha{
+    position: absolute;
+    width:185px ;
+    border-radius: 50%;
+    top: 70px;
+    left:990px;
+    z-index: 10;
+    transition: 1s;
+}
+.ozim{
+    position: absolute;
+    width:220px ;
+    border-radius: 50%;
+    top: 175px;
+    left:1200px;
+    z-index: 10;
+    transition: 1s;
+}
+
+.rounded:hover {
+      width: 500px;
+      z-index: 100;
+}
+.big-img{
+    width: 250px;
+    border-radius: 50%;
+    float:left;
+  margin-right: 30px;
+ 
+}
+.member{
+    width: 80%;
+    margin: auto;
+    line-height: 30px;
+    ;
+}
+.to-right{
+    float: right;
+}
+.to-left{
+    float: left;
+}
+   hr{
+       border-style: none;
+border-top: dotted #422c03 10px;
+width: 100px;
+margin: 100px auto;
+
+    }
+
